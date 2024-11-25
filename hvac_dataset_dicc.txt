@@ -1,0 +1,34 @@
+European dd/mm/yyyy HH: MM format
+
+on_off
+Equipment ON/OFF sensor. 
+0 when is the amchien is OFF, 
+1 when the machine is ON.
+
+damper
+Equipment damper sensor. 
+% opening of the external damper of the climate machine.
+
+active_energy
+Equipment energy sensor. 
+Energy consumed by a climate equipment.
+
+co2_1
+Equipment CO2 sensor.
+
+amb_humid_1
+Equipment humidity sensor. 
+Relative humidity sensor in % of the interior humidity of the room.
+
+active_power
+Equipment power sensor. 
+Electrical power consumed by a climate equipment.
+
+pot_gen
+high_pressure_1
+Equipment high pressure of sensor 1. 
+Pressure sensor in the discharge of the compressor in the climate machine.
+
+high_pressure_2
+Equipment high pressure of sensor 2. 
+Pressure sensor in the discharge of the compressor in the climate machine.
