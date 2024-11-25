@@ -1,4 +1,4 @@
-[Watch this video on YouTube](https://www.youtube.com/watch?v=CqOfi41LfDw&t=2s)
+[Neural Networks](https://www.youtube.com/watch?v=CqOfi41LfDw&t=2s)
+[Neural Networks Backpropagation]([https://www.youtube.com/watch?v=CqOfi41LfDw&t=2s](https://www.youtube.com/watch?v=IN2XmBhILt4))
 
-[![Video Thumbnail](https://img.youtube.com/vi/CqOfi41LfDw&t=2s/0.jpg)](https://www.youtube.com/watch?v=CqOfi41LfDw&t=2s)
 
