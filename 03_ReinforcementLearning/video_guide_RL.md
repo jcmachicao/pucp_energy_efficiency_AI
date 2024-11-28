@@ -1,9 +1,13 @@
 
-https://www.youtube.com/watch?v=h7uGyBcIeII
+# Examples of Reinforcement Learning with Python 
 
-https://www.youtube.com/watch?v=nRHjymV2PX8&t=115s
+Inverse Reinforcement Leraning Explanation https://www.youtube.com/watch?v=h7uGyBcIeII
 
-https://www.youtube.com/watch?v=bD6V3rcr_54&t=30s
+Reinformcement Learning Explanation https://www.youtube.com/watch?v=i7q8bISGwMQ
+
+Reinforcement Learning Tutorial https://www.youtube.com/watch?v=nRHjymV2PX8&t
+
+Custom Environment Reinforcement Learning https://www.youtube.com/watch?v=bD6V3rcr_54&t=30s
 
 
 
